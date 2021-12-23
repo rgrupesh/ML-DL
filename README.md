@@ -1,3 +1,3 @@
-# Deep_Learning
+# ML/DL
 
 This repository contains my works on Machine Learning/Deep Learning.
